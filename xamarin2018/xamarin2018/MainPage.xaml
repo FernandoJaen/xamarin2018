@@ -6,10 +6,12 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-    	<Label Text="hola mundo" 
-          />
+    	<Label Text="hola mundo"/>
         <Label  Text="nombre"/>
         <Entry Placeholder=""></Entry>
+        <Label Text=" edad"/>
+        
+
     </StackLayout>
 
 </ContentPage>
